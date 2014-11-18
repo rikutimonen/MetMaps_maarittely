@@ -1,64 +1,63 @@
 # Harjoitus 4
 
 http://www.theseus.fi/bitstream/handle/10024/53604/Nordling_Lauri.pdf?sequence=1
-(johdanto)
 
-opinnäytetyö, toiminnanohjausjärjestelmän ERP vaatimusmäärittely Ohjelmatoimisto Äänirasialle. 
+### (johdanto)
 
-Lukijakuntana yrityksen päättäjät, jotka ovat valitsemassa käytettävää järjestelmää. 
+1. opinnäytetyö, toiminnanohjausjärjestelmän (ERP) vaatimusmäärittely Ohjelmatoimisto Äänirasialle. 
 
-tilanne suunnitteluvaiheessa
+2. Lukijakuntana yrityksen päättäjät, jotka ovat valitsemassa käytettävää järjestelmää. 
 
-Motivaationa perustella ohjelmalle asetettavia vaatimuksia ja osoittaa, miten järjestelmä 
-parantaa yhtiön tehokkutta. 
+3. tilanne suunnitteluvaiheessa
 
-Rakenne on hyvin suppea versio wikipediasta löytyvään verrattuna. Pitkiä palstoja. 
-Löytyy osio pelkälle historiallekkin.
+4. Motivaationa perustella ohjelmalle asetettavia vaatimuksia ja osoittaa, miten järjestelmä parantaa yhtiön tehokkutta. 
 
+5. Rakenne on hyvin suppea versio wikipediasta löytyvään verrattuna. Pitkiä palstoja jotka koskevat monia asioita. Löytyy osio pelkälle ERP historiallekkin. 
+  
+###(Käyttötapaukset)
 
-(Käyttötapaukset)
+1. Käyttötapauksia esitetään yrityksien prosessien muodossa. 
 
-mitä sillä voi tehdä
+2. Ei ole, on vain myynti/vuokraus yms prosessien kaavioita, jotka eivät suoraan liity itse ohjelman määrittelyyn. 
 
-käyttötapauskaaviot
+3. Esimerkit ovat välillä yksityiskohtaisia. 
 
-kuinka yksityiskohtaista
-
-skenaariot
+4. Skenaarioita on sijoiteltu sinne tänne. 
 
 
-(järjestelmän yleisrakenne)
+###(järjestelmän yleisrakenne)
 
-mitä kaaviotekniikoita käytetään ja miksi?
-
-
-(funktionaaliset ja ei-funktionaaliset vaatimukset)
-
-Lista vaatimuksista prioriteettien mukaan. Prioriteeteillä 1-3 suuruutta. 
-
-tunnistetiedot? numeroitu?
-
-jäljitettävyys? mitattavuus?
+1. mitä kaaviotekniikoita käytetään ja miksi?
 
 
-(miltä se näyttää)
+###(funktionaaliset ja ei-funktionaaliset vaatimukset)
 
-Ei mitään esimerkkejä toiminnanohjausjärjestelmistä koko tekstissä. Pelkkää termien selitystä.
+1. Annetaan lista vaatimuksista prioriteettien mukaan. Prioriteeteillä 1-3 suuruutta. 
+2. "Ei-toiminnallisiin vaatimuksiin eli lähinnä vasteaikaan ja suorituskykyyn liittyviin ominaisuuksiin voidaan keskittyä enemmän siinä vaiheessa, kun järjestelmän valinta tulee ajankohtaiseksi".
 
+3. tunnistetiedot? numeroitu?
 
-(prosessimalli)
-
-onko kuvattu? 
-
-resurssit? budjetti?
-
-riskianalyysi?
+4. jäljitettävyys? mitattavuus?
 
 
-(johtopäätökset, oma mielipide)
+###(miltä se näyttää)
 
-mikä tekee hyvän dokumentin
+1. Ei mitään esimerkkejä toiminnanohjausjärjestelmistä koko tekstissä. Pelkkää termien selitystä.
 
-onko tämä sellainen? 
 
-kaavioiden käyttö? laatumäärähyöty?
+###(prosessimalli)
+
+1. Yrityksen prosessit on mallinnettu kolmella eri 
+
+2. ei mitään mainintaa resursseista tai budjetista. 
+
+3. Ei mitään mainintaa riskeistä, pidetään pelkkänä positiivisena riskittömänä asiana. 
+
+
+###(johtopäätökset, oma mielipide)
+
+1. mikä tekee hyvän dokumentin
+
+2. En sanoisi että tämä dokumentti on hyvä vaatimusmäärittely, koska tässä käydään vain läpi paljon vaihtoehtoja ja puhutaan historiasta. 
+
+3. kaavioiden käyttö? laatumäärähyöty?
