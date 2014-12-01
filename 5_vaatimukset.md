@@ -9,33 +9,33 @@
 * Keskeinen tapa (erityisesti ei-funktionaalisiin vaatimuksiin) yksiselitteisille kuvauksille on vaatimusten **mitattavuus** (software metrics)
 
 
-Funktionaaliset vaatimukset:
+**Funktionaaliset vaatimukset:**
 
-Navigointisovellusta ei voi käyttää kirjautumatta sisään.
+- Navigointisovellusta ei voi käyttää kirjautumatta sisään.
 
-Sovellus ei käännä näyttöä vaakasuoraan mikäli käyttäjä kääntää puhelimensa pystysuorasta asennosta.
+- Sovellus ei käännä näyttöä vaakasuoraan mikäli käyttäjä kääntää puhelimensa pystysuorasta asennosta.
 
-Jos käyttäjänimi tai salasana kirjoitetaan väärin kirjautuessa, tulee ohjelman ilmoittaa että toinen kohdista on väärin.
+- Jos käyttäjänimi tai salasana kirjoitetaan väärin kirjautuessa, tulee ohjelman ilmoittaa että toinen kohdista on väärin.
 
-Kirjautumisen onnistuessa tulee ohjelman mennä karttaruutuun ja näyttää kartalla käyttäjän tämänhetkinen sijainti.
+- Kirjautumisen onnistuessa tulee ohjelman mennä karttaruutuun ja näyttää kartalla käyttäjän tämänhetkinen sijainti.
 
-Ohjelman alapalkin (jossa haku ja menu näppäimet) on oltava näkyvissä kaikkialla paitsi kirjautumisruudussa.
+- Ohjelman alapalkin (jossa haku ja menu näppäimet) on oltava näkyvissä kaikkialla paitsi kirjautumisruudussa.
 
-Navigointimoduulista tulee aina nähdä käyttäjän tämänhetkinen sijainti kartalla.
+- Navigointimoduulista tulee aina nähdä käyttäjän tämänhetkinen sijainti kartalla.
 
-Navigointimoduulin on näytettävä kartalla myös mahdollinen seuraavan luennon sijainti.
+- Navigointimoduulin on näytettävä kartalla myös mahdollinen seuraavan luennon sijainti.
 
-Lukujärjestysmoduulin tulee avattaessa näyttää vain sen hetkisen päivän lukujärjestys.
+- Lukujärjestysmoduulin tulee avattaessa näyttää vain sen hetkisen päivän lukujärjestys.
 
-Lukujärjestysmoduulista tulee voida hakea lukujärjestyksiä sekä ryhmän että toteutuksen tunnuksilla.
+- Lukujärjestysmoduulista tulee voida hakea lukujärjestyksiä sekä ryhmän että toteutuksen tunnuksilla.
 
-Navigointisovelluksen näyttämää kerrosta täytyy voida vaihtaa manuaalisesti.
+- Navigointisovelluksen näyttämää kerrosta täytyy voida vaihtaa manuaalisesti.
 
-Keskustelumoduuli on saatava haluttaessa asetuksista pois käytöstä jolloin se ei ennen päällekyntentää näy menu valikon alla.
+- Keskustelumoduuli on saatava haluttaessa asetuksista pois käytöstä jolloin se ei ennen päällekyntentää näy menu valikon alla.
 
-Keskustelumoduulissa käyttäjä saa yhteyden vain lisättyihin kontakteihin.
+- Keskustelumoduulissa käyttäjä saa yhteyden vain lisättyihin kontakteihin.
 
-Keskustelumoduuliin voi lisätä kontakteja vain molemman osapuolen hyväksynnällä.
+- Keskustelumoduuliin voi lisätä kontakteja vain molemman osapuolen hyväksynnällä.
 
 
 
