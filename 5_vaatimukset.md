@@ -20,3 +20,4 @@ Navigointisovelluksen näyttämää kerrosta täytyy voida vaihtaa manuaalisesti
 Ohjelman alapalkin (jossa haku ja menu näppäimet) on oltava näkyvissä kaikkialla paitsi kirjautumisruudussa.
 
 
+
