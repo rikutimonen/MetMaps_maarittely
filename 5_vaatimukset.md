@@ -9,9 +9,11 @@
 * Keskeinen tapa (erityisesti ei-funktionaalisiin vaatimuksiin) yksiselitteisille kuvauksille on vaatimusten **mitattavuus** (software metrics)
 
 
-**Funktionaaliset vaatimukset:**
+**Funktionaaliset vaatimukset**
 
 - Navigointisovellusta ei voi käyttää kirjautumatta sisään.
+
+- Ohjelman tulee huomauttaa käyttäjää mikäli tämän Wi-Fi vastaanotin on pois päältä ohejlmaa käynnistettäessä.
 
 - Sovellus ei käännä näyttöä vaakasuoraan mikäli käyttäjä kääntää puhelimensa pystysuorasta asennosta.
 
@@ -23,7 +25,13 @@
 
 - Navigointimoduulista tulee aina nähdä käyttäjän tämänhetkinen sijainti kartalla.
 
+- Ohejlman tulee kertoa käyttäjälle mikäli Wi-Fi signaalien haku epäonnistuu.
+
 - Navigointimoduulin on näytettävä kartalla myös mahdollinen seuraavan luennon sijainti.
+
+- Ohjelman on pidettävä käyttäjän sijainti tallessa myös ohjelman ollessa taustalla.
+
+- Jos ohejlma suljetaan täysin, tulee sijainnin seurannan kytkeytyä pois.
 
 - Lukujärjestysmoduulin tulee avattaessa näyttää vain sen hetkisen päivän lukujärjestys.
 
@@ -36,6 +44,14 @@
 - Keskustelumoduulissa käyttäjä saa yhteyden vain lisättyihin kontakteihin.
 
 - Keskustelumoduuliin voi lisätä kontakteja vain molemman osapuolen hyväksynnällä.
+
+
+** Ei-funktionaaliset vaatimukset**
+
+- Paikannuksen on tapahduttava 20 sekunnin aikana.
+
+- Ohjelman on toimittava androidin versiosta 2.2 ylöspäin.
+
 
 
 
