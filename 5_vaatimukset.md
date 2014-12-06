@@ -15,8 +15,6 @@
 
 - Ohjelman tulee huomauttaa käyttäjää mikäli tämän Wi-Fi vastaanotin on pois päältä ohejlmaa käynnistettäessä.
 
-- Sovellus ei käännä näyttöä vaakasuoraan mikäli käyttäjä kääntää puhelimensa pystysuorasta asennosta.
-
 - Jos käyttäjänimi tai salasana kirjoitetaan väärin kirjautuessa, tulee ohjelman ilmoittaa että toinen kohdista on väärin.
 
 - Kirjautumisen onnistuessa tulee ohjelman mennä karttaruutuun ja näyttää kartalla käyttäjän tämänhetkinen sijainti.
@@ -25,9 +23,9 @@
 
 - Navigointimoduulista tulee aina nähdä käyttäjän tämänhetkinen sijainti kartalla.
 
-- Ohejlman tulee kertoa käyttäjälle mikäli Wi-Fi signaalien haku epäonnistuu.
+- Ohjelman tulee kertoa käyttäjälle mikäli Wi-Fi signaalien haku epäonnistuu.
 
-- Navigointimoduulin on näytettävä kartalla myös mahdollinen seuraavan luennon sijainti.
+- Navigointimoduulin on näytettävä kartalla myös mahdollinen seuraavan luennon sijainti mikäli katsottavana päivänä on vielä luentoja.
 
 - Ohjelman on pidettävä käyttäjän sijainti tallessa myös ohjelman ollessa taustalla.
 
@@ -49,6 +47,8 @@
 ** Ei-funktionaaliset vaatimukset **
 
 - Paikannuksen on tapahduttava 20 sekunnin aikana.
+
+- Sovellus ei käännä näyttöä vaakasuoraan mikäli käyttäjä kääntää puhelimensa pystysuorasta asennosta.
 
 - Ohjelman on toimittava androidin versiosta 2.2 ylöspäin.
 
