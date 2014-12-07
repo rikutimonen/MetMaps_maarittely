@@ -29,7 +29,7 @@
 
 - Ohjelman on pidettävä käyttäjän sijainti tallessa myös ohjelman ollessa taustalla.
 
-- Jos ohejlma suljetaan täysin, tulee sijainnin seurannan kytkeytyä pois.
+- Jos ohjelma suljetaan täysin, tulee sijainnin seurannan kytkeytyä pois.
 
 - Lukujärjestysmoduulin tulee avattaessa näyttää vain sen hetkisen päivän lukujärjestys.
 
