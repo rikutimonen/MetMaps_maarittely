@@ -10,9 +10,11 @@
 
 - Kirjautumisen onnistuessa tulee ohjelman mennä karttaruutuun ja näyttää kartalla käyttäjän tämänhetkinen sijainti.
 
+- Ruudulla on näytettävä merkki mikäli paikannusta ei vielä ole saatu muodostettua.
+
 - Ohjelman alapalkin (jossa haku ja menu näppäimet) on oltava näkyvissä kaikkialla paitsi kirjautumisruudussa.
 
-- Navigointimoduulista tulee aina nähdä käyttäjän tämänhetkinen sijainti kartalla.
+- Navigointimoduulista tulee paikannuksen jälkeen aina nähdä käyttäjän tämänhetkinen sijainti kartalla.
 
 - Ohjelman tulee kertoa käyttäjälle mikäli Wi-Fi signaalien haku epäonnistuu.
 
