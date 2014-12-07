@@ -1,16 +1,9 @@
+## MetMaps
+**Team me**
 
-## Projektin kansilehti 
+Olli Pikarla, Riku Timonen
 
-Listaa tänne
+-8.12.2014
 
-MetMaps
-Team Me
-Riku Timonen, Olli Pikarla
-xx.xx
-xxxxxx
+v0.1?
 
-* Projektin otsikko eli tuotteen nimi
-* Tiimin nimi
-* Tiimin jäsenet
-* Päivämäärä
-* Dokumentin versio, jos tarpeen 
