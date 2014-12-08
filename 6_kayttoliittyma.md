@@ -1,5 +1,5 @@
 ## Käyttöliittymä
-![error](mockup01.jpg)
+![mockup](mockup01.jpg)
 Jokaisessa, paitsi sisäänkirjautumisnäkymässä on pääsy alareunasta sovelluksen sulkemiseen sekä menuun, että hakunäkymään. Menu näppäin avaa pop up menun näkymässä, jonka avulla pääsee käsiksi chattiin, lukujärjestykseen ja sovelluksen asetuksiin. 
 
 1. Käyttäjän ensimmäinen näkymä on sisäänkirjautumisnäkymä, jonka kenttiin käyttäjä täyttää metropolia tunnuksensa ja painaa login, jolloin käyttäjä siirtyy sovelluksen karttanäkymään. 

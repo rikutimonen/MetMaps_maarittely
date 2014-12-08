@@ -1,6 +1,6 @@
 ##  Järjestelmäarkkitehtuuri
 
-Komponentit:
+**Komponentit:**
 
 Kirjautuminen:
 Järjestelmään kirjaudutaan käyttäen metropolian omaa kirjautumisjärjestelmää. Näin sovelukseen ei tarvita omaa tietokantaa käyttäjänimille ja salasanoille.

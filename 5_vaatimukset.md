@@ -34,10 +34,10 @@
 
 - Keskustelumoduulissa käyttäjä saa yhteyden vain lisättyihin kontakteihin.
 
-- Keskustelumoduuliin voi lisätä kontakteja vain molemman osapuolen hyväksynnällä.
+- Keskustelumoduuliin voi lisätä kontakteja vain molemman osapuolen hyväksynnällä.
 
 
-** Ei-funktionaaliset vaatimukset **
+**Ei-funktionaaliset vaatimukset**
 
 - Paikannuksen on tapahduttava 20 sekunnin aikana.
 
